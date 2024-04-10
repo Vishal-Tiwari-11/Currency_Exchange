@@ -1,1 +1,1 @@
-Currency Exchange using Fetcg API
+Currency Exchange using Fetch API - JavaScript
